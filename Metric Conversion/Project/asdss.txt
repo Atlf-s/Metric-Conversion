@@ -1,0 +1,2 @@
+javascript jo code likhty hain normally woh sync
+javascript ham async await ka keyword use karty hain
